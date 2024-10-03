@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e603359-4947-4a64-b792-6b4683935334" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/cvtc/bigram/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/cvtc/bigram/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jshell.sh" beforeDir="false" afterPath="$PROJECT_DIR$/jshell.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,40 +38,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.edu.cvtc.bigram.Main.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.MainTest.createBigramsEmpty.executor": "Coverage",
-    "JUnit.MainTest.createBigramsSingle.executor": "Run",
-    "JUnit.MainTest.createConnection.executor": "Run",
-    "JUnit.MainTest.executor": "Run",
-    "JUnit.MainTest.getId.executor": "Coverage",
-    "JUnit.MainTest.mainArgs.executor": "Coverage",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/kharris20/git/courses/sqc-programs/sqc-bigram-learn",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.edu.cvtc.bigram.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.MainTest.createBigramsEmpty.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.MainTest.createBigramsSingle.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.createConnection.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.getId.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.MainTest.mainArgs.executor&quot;: &quot;Coverage&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kharris20/git/courses/sqc-programs/sqc-bigram-learn&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -80,7 +84,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest">
+  <component name="RunManager" selected="JUnit.MainTest.createBigrams">
     <configuration name="edu.cvtc.bigram.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.cvtc.bigram.Main" />
       <module name="sqc-bigram-learn" />
@@ -99,11 +103,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.createBigramsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainTest.createBigrams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sqc-bigram-learn" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainTest" />
-      <option name="METHOD_NAME" value="createBigramsEmpty" />
+      <option name="METHOD_NAME" value="createBigrams" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,18 +135,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.edu.cvtc.bigram.Main" />
+      <item itemvalue="JUnit.MainTest.createBigrams" />
       <item itemvalue="JUnit.MainTest.getId" />
       <item itemvalue="JUnit.MainTest" />
-      <item itemvalue="JUnit.MainTest.createBigramsEmpty" />
       <item itemvalue="JUnit.MainTest.mainArgs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest.createBigrams" />
         <item itemvalue="JUnit.MainTest" />
         <item itemvalue="Application.edu.cvtc.bigram.Main" />
         <item itemvalue="JUnit.MainTest.getId" />
         <item itemvalue="JUnit.MainTest.mainArgs" />
-        <item itemvalue="JUnit.MainTest.createBigramsEmpty" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +171,9 @@
       <workItem from="1708057290455" duration="17732000" />
       <workItem from="1708257070182" duration="361000" />
       <workItem from="1708374488821" duration="1831000" />
+      <workItem from="1727895507392" duration="482000" />
+      <workItem from="1727896071782" duration="4986000" />
+      <workItem from="1727925237331" duration="1796000" />
     </task>
     <servers />
   </component>
@@ -178,10 +185,10 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sqc_bigram_learn_reference$MainTest_mainArgs.ic" NAME="MainTest.mainArgs Coverage Results" MODIFIED="1708027791261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/sqc_bigram_learn_reference$MainTest_createBigramsEmpty.ic" NAME="MainTest.createBigramsEmpty Coverage Results" MODIFIED="1708023042888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/sqc_bigram_learn$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1708375658330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/sqc_bigram_learn$MainTest_getId.ic" NAME="MainTest.getId Coverage Results" MODIFIED="1708058868389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/sqc_bigram_learn_reference$MainTest_mainArgs.ic" NAME="MainTest.mainArgs Coverage Results" MODIFIED="1708027791261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/sqc_bigram_learn_reference$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1708029111609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/sqc_bigram_learn$MainTest_getId.ic" NAME="MainTest.getId Coverage Results" MODIFIED="1708058868389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

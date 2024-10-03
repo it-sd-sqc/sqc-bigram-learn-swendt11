@@ -59,6 +59,19 @@ class MainTest {
         () -> assertDoesNotThrow(() -> Main.main(new String[]{"./sample-texts/empty.txt"}))
     );
   }
-
-  // TODO: Create your test(s) below. /////////////////////////////////////////
+    // TODO: Create your test(s) below. /////////////////////////////////////////
+    @Test
+    void createBigrams() {
+      Connection db = Main.createConnection();
+      String src = "    bz'vm.,bualkc snatoheu   s";
+      assertDoesNotThrow(
+              () -> {
+                  Main.createBigrams(db,src);
+                  db.close();
+              }
+      );
+      // This test should add three words to the database, because of the SQL exception
+        // that is occoring before any fixes are made to the Main.java file this test
+        // should fail.
+    }
 }
